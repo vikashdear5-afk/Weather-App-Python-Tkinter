@@ -1,0 +1,43 @@
+# Ignore Python cache
+
+**pycache**/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore virtual environments
+
+env/
+venv/
+.venv/
+
+# Ignore build + distribution folders (PyInstaller)
+
+build/
+dist/
+*.spec
+
+# Ignore IDE / Editor settings
+
+.vscode/
+.idea/
+
+# Ignore OS system files
+
+.DS_Store
+Thumbs.db
+
+# Ignore logs
+
+*.log
+
+# Ignore temporary files
+
+*.tmp
+*.bak
+*.swp
+
+# Ignore environment info
+
+.env
+.env.*
