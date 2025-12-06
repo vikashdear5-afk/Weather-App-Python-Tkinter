@@ -21,7 +21,7 @@ FONT_FAMILY = "Segoe UI"
 
 
 # ---------- CONFIG ----------
-API_KEY = "97088c065c487396c98f7e887a7eaf83"  # <<< Replace with your OpenWeatherMap API key
+API_KEY = "API-KEY HERE PASTE"  # <<< Replace with your OpenWeatherMap API key
 WIDTH, HEIGHT = 430, 650
 FONT_FAMILY = "Segoe UI"  # will fall back if not present
 
